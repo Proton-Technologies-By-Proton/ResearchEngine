@@ -17,7 +17,6 @@ Research and insight Analysis by Proton Technologies
 Go to Releases and download the latest version.
 
 ## Developers and Designers: 
-1. Aditya Sinharoy - Founder, Proton Technologies and Lead Programmer of ResearchEngine
-2. Debdutta Roy - Tester and Lead UI/UX Designer
+1. Aditya Sinharoy - Founder, Proton Technologies and Lead Programmer of ResearchEngine.
 
 ## 2026 © Proton Technologies, All Rights Reserved
