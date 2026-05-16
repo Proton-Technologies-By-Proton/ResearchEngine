@@ -102,7 +102,7 @@ class SettingsWindow(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Settings")
+        self.setWindowTitle("ResearchEngine System Settings")
         self.setFixedSize(360, 200)
         self.setWindowFlags(self.windowFlags() | Qt.WindowStaysOnTopHint)
 
@@ -134,7 +134,7 @@ class ProtonUI(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("ResearchEngine")
+        self.setWindowTitle("ResearchEngine v0.3.0 Alpha")
         self.resize(1400, 800)
 
         self.settings_window = None
